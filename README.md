@@ -14,7 +14,7 @@ For more details and Ui layout please vist the follwing link
 
 
 
-</li>
+
 
 # Android Backword Compitability : Upto Android 4.0 
 
