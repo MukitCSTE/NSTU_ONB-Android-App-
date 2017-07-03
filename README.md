@@ -10,9 +10,9 @@ DEPARTMENTAL--> This will show the only departmental notices. And user can only 
 MFVC --> Is pronounced like " Message From Vice Chancellor " . If Our Honorable VC Sir wants to share any important news or message with us ,it will be displayed here.
 For more details and Ui layout please vist the follwing link 
 
-<li>
+<a href = "https://www.facebook.com/photo.php?fbid=1263451670369768&set=pcb.1263365903711678&type=3&theater" > Readmore </a>
 
-https://www.facebook.com/photo.php?fbid=1263451670369768&set=pcb.1263365903711678&type=3&theater
+
 
 </li>
 
