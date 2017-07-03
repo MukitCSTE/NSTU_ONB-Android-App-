@@ -12,3 +12,5 @@ For more details and Ui layout please vist the follwing link
 https://www.facebook.com/photo.php?fbid=1263451670369768&set=pcb.1263365903711678&type=3&theater
 
 # Android Backword Compitability : Upto Android 4.0 
+
+# Click Here To Download The  Apk : https://github.com/MukitCSTE/NSTU_ONB-Android-App-/raw/master/App/NSTU%20ONB-v2.2.1.apk
