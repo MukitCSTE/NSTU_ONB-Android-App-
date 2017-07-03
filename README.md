@@ -9,9 +9,8 @@ DEPARTMENTAL--> This will show the only departmental notices. And user can only 
 
 MFVC --> Is pronounced like " Message From Vice Chancellor " . If Our Honorable VC Sir wants to share any important news or message with us ,it will be displayed here.
 For more details and Ui layout please vist the follwing link 
-
-https://www.facebook.com/photo.php?fbid=1263451670369768&set=pcb.1263365903711678&type=3&theater
+<a href="https://www.facebook.com/photo.php?fbid=1263451670369768&set=pcb.1263365903711678&type=3&theater">READ MORE</a>
 
 # Android Backword Compitability : Upto Android 4.0 
 
- Click Here To Download The  Apk : https://github.com/MukitCSTE/NSTU_ONB-Android-App-/raw/master/App/NSTU%20ONB-v2.2.1.apk
+<a href=" https://github.com/MukitCSTE/NSTU_ONB-Android-App-/raw/master/App/NSTU%20ONB-v2.2.1.apk"> Click Here To Download The Apk</a>
